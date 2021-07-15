@@ -1,0 +1,50 @@
+.mainDiv{
+    background-color:rgb(240, 177, 156);
+    border: solid grey 2px;
+    border-radius: 25px;
+
+    height: 95%;
+    width: 80%;
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.messages{
+    display: block;
+    position: absolute;
+    top: 47%;
+    width: 90%;
+    border-radius: 25px;
+    border: solid black 2px;
+    height: 72%;
+    margin: 0;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: white;
+}
+
+.textArea{
+    display: block;
+    position: absolute;
+    border: solid black 2px;
+    background-color: white;
+    border-radius: 25px;
+    margin: 0;
+    height: 12%;
+    width: 90%;
+    left: 50%;
+    top: 92%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-size: 25;
+}
+
+*:focus {
+    outline: none;
+}

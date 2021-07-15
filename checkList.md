@@ -1,0 +1,14 @@
+- Make websocket connection
+- Make message protocol
+- Readjust some of the css on client side
+- Make login screen
+- Make encryption (mby md5?)
+- Make admin console.
+- Make customiseable chat color and such
+- Make rooms
+- Make rooms password protected
+- Make commands
+- Make economics
+- Make items
+- Make level system
+- Mby custom avatar?
